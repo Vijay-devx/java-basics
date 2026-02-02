@@ -11,8 +11,6 @@ public class PrintVariables
         char grade = 'A';
         boolean isStudent = true;
 
-        System.out.println();
-
         System.out.printf("Age: %d\n Height: %.2f\n Grade: %c\n Student: %b\n",age,height,grade,isStudent);
 
     }
