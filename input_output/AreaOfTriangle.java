@@ -15,6 +15,7 @@ public class AreaOfTriangle
         double Area = 0.5*b*h;    //formula for calculating area of triangle.
 
         System.out.println("Area of Triangle = "+Area);
+        sc.close();
     }
     
 }
