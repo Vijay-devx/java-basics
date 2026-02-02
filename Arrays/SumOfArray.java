@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class arrays_SumOfArray 
+public class SumOfArray 
 {
     static int arraySum(int[] arr, int count)
     {
