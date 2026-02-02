@@ -7,7 +7,7 @@ public class TypeCasting
     public static void main(String[] args)
     {
         double x = 10.75;
-        int y = (int)x;
+        int y = (int)x;      //Syntax:- (desiredType)value
 
         System.out.println(y);
     }
