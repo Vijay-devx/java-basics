@@ -1,6 +1,9 @@
-What You are Learning From This Set:
+>> Programs demonstrating how to take user input and display output in Java.
 
-by finishing these, we learn:
+
+## What This Set Covers
+
+## By finishing these programs, we will learn:
 
 -Using Scanner
 -nextInt()
@@ -10,4 +13,4 @@ by finishing these, we learn:
 -printing with System.out.println()
 -Basic Formatting
 
-This fully covers Input/Output foundation.
+This set builds a strong foundation in Java input and output.
