@@ -15,6 +15,8 @@ public class ReadIntDouble
         int a = sc.nextInt();                                    //reads Integer Value.
 
         System.out.printf("You entered:\n %.2f\n %d ",d,a); //%.2f prints only 2-digits after decimal.
+
+        sc.close();
     }
     
 }
