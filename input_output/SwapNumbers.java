@@ -1,5 +1,5 @@
 
-//Swapping two numbers.
+//Swapping two numbers(without temp)
 
 import java.util.Scanner;
 
@@ -14,9 +14,9 @@ public class SwapNumbers
 
         System.out.printf("Before Swap: %d, %d\n",a,b);
 
-        int temp = a;      //Swapping Logic
-        a = b;
-        b = temp;
+        a = a + b;      //Swap Logic
+        b = a - b;
+        a = a - b;
 
         System.out.printf("After Swap = %d, %d\n", a,b);
         sc.close();
