@@ -15,6 +15,7 @@ import java.util.Scanner;  //Scanner takes input from user.
         int a = sc.nextInt();  //this will store next integer value entered into a.
 
         System.out.println("You entered: "+a);
+        sc.close(); //we closed the scanner.
 
     }
     
