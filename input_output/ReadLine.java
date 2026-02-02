@@ -1,4 +1,4 @@
-//Reading Full Line
+//Reading Full Line.
 
 
 import java.util.Scanner;
