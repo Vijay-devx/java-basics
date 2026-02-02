@@ -13,9 +13,10 @@ public class SimpleInterest
         Double r = sc.nextDouble();
         int t = sc.nextInt();
 
-        Double si = (p*r*t)/100 ;
+        Double si = (p*r*t)/100 ;     //formula for calculating simple interest.
 
         System.out.println("Simple Interest = "+si);
+        sc.close();
     }
     
 }
