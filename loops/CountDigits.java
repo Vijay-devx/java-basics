@@ -12,15 +12,15 @@ public class CountDigits
        int n = sc.nextInt();
        int count = 0;
 
-       if(n==0)
+       if(n==0)     //this accounts in case value entered is zero(0).
        {
          System.out.println("No. Of Digits = 1");
        }
         else
         {
-            while(n != 0)
+            while(n != 0)  
             {
-                n = n/10;
+                n = n/10;  //since n is an int value, dividing it by 10 will chop off last digit, it won't be converted into decimal, so the loop will end once last digit is divided by 10.
                 count++;
             }
         }
