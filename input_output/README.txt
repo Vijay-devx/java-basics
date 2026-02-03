@@ -1,16 +1,36 @@
->> Programs demonstrating how to take user input and display output in Java.
+# Input-Output Practice (Java)
 
+Java programs to practice taking input from user and displaying output.
 
-## What This Set Covers
+---
 
-## By finishing these programs, we will learn:
+## What You Will Learn
 
--Using Scanner
--nextInt()
--nextDouble()
--next()
--nextLine()
--printing with System.out.println()
--Basic Formatting
+- Using Scanner class
+- Reading int, double, char, word, and line
+- Basic arithmetic operations
+- Printing formatted output
 
-This set builds a strong foundation in Java input and output.
+---
+
+## Programs Included
+
+- HelloWorld.java  
+- AddTwoNumbers.java  
+- MultiplyTwoNumbers.java  
+- AverageThreeNumbers.java  
+- AreaOfTriangle.java  
+- SimpleInterest.java  
+- SwapNumbers.java  
+- ReadInteger.java  
+- ReadIntDouble.java  
+- ReadCharacter.java  
+- ReadWord.java  
+- ReadLine.java  
+
+---
+
+## How to Run
+
+javac FileName.java  
+java FileName
