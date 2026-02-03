@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class CountDigitsWithLoop 
+public class CountDigits 
 {
     public static void main(String[] args)
     {
