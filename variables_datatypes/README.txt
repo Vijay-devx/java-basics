@@ -1,21 +1,36 @@
->>Basic programs focused on understanding Java variables and data types through hands-on practice.
+# Variables and Datatypes (Java)
 
-## What This Set Builds:
+Java programs to practice variables, basic datatypes, arithmetic operations,
+type casting, and simple real-world calculations.
 
--Variable declaration
--Assigning values
--Numeric operations
--Char and boolean usage
--Basic casting
--Expression evaluation
+---
 
-## By finishing these problems, you should be able to clearly understand:
+## What You Will Learn
 
--int
--double
--char
--boolean
--String
--Type assignment
--Simple Calculations
--Basic type conversion
+- Declaring and using variables
+- int, double, char, boolean datatypes
+- Arithmetic operations
+- Type casting (implicit & explicit)
+- Simple formula-based programs
+
+---
+
+## Programs Included
+
+- PrintVariables.java  
+- SumUsingVariables.java  
+- SimpleCalculator.java  
+- Percentage.java  
+- AreaOfCircle.java  
+- CelsiusToFahrenheit.java  
+- AsciiValue.java  
+- TypeCasting.java  
+- SwapUsingTemp.java  
+- VotingEligibility.java  
+
+---
+
+## How to Run
+
+javac FileName.java  
+java FileName
