@@ -1,4 +1,4 @@
-## What you will b elearning from this topic:
+## What you will be learning from this topic:
 
 By the end of this set, you should clealy ne able to understand:
 
