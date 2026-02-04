@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Fatorial 
+public class Factorial 
 {
     public static void main(String[] args)
     {
