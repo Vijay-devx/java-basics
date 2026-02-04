@@ -28,7 +28,7 @@ Java programs to practice array creation, traversal, and common array operations
 - LinearSearch.java  
 - CountEven.java  
 - ReverseArray.java  
-- ReverseUsingTwoPointerSwapping.java  
+- ReverseTwoPointer.java  
 
 ---
 
