@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class ReverseUsingTwoPointerSwapping 
+public class ReverseTwoPointer 
 {
     static void reverseArray(int[] arr, int count)
     {
