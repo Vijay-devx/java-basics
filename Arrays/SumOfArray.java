@@ -43,6 +43,7 @@ public class SumOfArray
             int Result = arraySum(arr,count);
             System.out.printf("The Sum Of The Array = %d\n", Result);
         }
+        sc.close();
 
     }
     
