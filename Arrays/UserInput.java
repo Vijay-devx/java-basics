@@ -1,5 +1,5 @@
 
-//Take user input for array amd use this Class in various programs.
+// To take user input for array and count length of array, we can call this method UserInput.userInput() in various programs.
 
 
 import java.util.Scanner;
