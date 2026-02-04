@@ -15,9 +15,7 @@ public class PrintArray
         System.out.println("Please Enter the each element of Array: ");
          for(int i=0; i<arr.length; i++)
          {
-            int x = sc.nextInt();
-
-            arr[i] = x;
+            arr[i] = sc.nextInt();         
          }
 
          for(int i=0; i<arr.length; i++)
