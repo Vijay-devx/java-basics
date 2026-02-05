@@ -3,17 +3,17 @@
 
 import java.util.Scanner;
 
-public class CountWords 
+public class CountWordsShortcut 
 {
     static int wordCount(String s)
     {
-        if(s.trim().isEmpty())
+        if(s.trim().isEmpty())    // IN case word contains only spaces.
         {
             return 0;
         }
         else
         {
-            String[] words = s.trim().split("\\s+");
+            String[] words = s.trim().split("\\s+");  //we split the sentence at whitespaces, store them in in array and length of that array will be our word count.
             return words.length;
         }
     }
