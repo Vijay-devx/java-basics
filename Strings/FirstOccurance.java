@@ -37,8 +37,15 @@ public class FirstOccurance
         char find = sc.next().trim().charAt(0);                  //using trim will remove any unwanted spaces in the string and then take 1st character at index 0... we can also go with just s.next().charAt(0); its fine too but if first character in string is a space, it will take that, which will give error, we are just eliminating the chance of any error.
                                                                        // using trim prevents accidental spaces.
         int result = firstOccur(s,find);
-        
-        System.out.println("First Occurance index = "+result);
+
+        if(result==-1)
+        {
+            System.out.println("Character NOT FOUND");
+        }
+        else
+        {
+            System.out.println("First Occurance index = "+result);
+        }    
 
         sc.close();
     }
