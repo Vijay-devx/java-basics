@@ -1,6 +1,7 @@
 
 // Replace Character.
 // Shortcut method:-  s.replace(oldChar, newChar)        ---this function replaces our entire method logic. 
+// we can just writeinside method;- {  return s.replace(a,o);}---- we can add lowercase lines above it too, to make the comparison case-insensitive.
 
 import java.util.Scanner;
 
