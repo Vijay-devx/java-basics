@@ -1,7 +1,7 @@
 
 // Find First Occurence of Character.
 // shortcut: we can directly use java function:- indexOf();   ----this function finds the index of character inside string--for first occurance. 
-// our entire method can be replaced by:- return s.indexOf(find);
+// our entire method can be replaced by:- return s.indexOf(find);   ----just add those lowercase lines to make it case-Insensitive.
 
 import java.util.Scanner;
 
