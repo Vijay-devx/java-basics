@@ -7,8 +7,8 @@ public class ToUppercase
 {
     static void uppercase(String s)
     {
-        s = s.toUpperCase();
-
+        s = s.toUpperCase();          // OR we can directly use :- return s.toUpperCase();   to the method call and print values inside main.,
+                                      // in that case use : static String , instead od static void.
         System.out.println(s);
     }
     public static void main(String[] args)
